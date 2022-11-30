@@ -1,0 +1,6 @@
+EJERCICIO N°1
+<?php
+$Name = "Jheff";
+echo "Hola <b>$Name</b>, encantado de conocerte";
+?>
+</p>
